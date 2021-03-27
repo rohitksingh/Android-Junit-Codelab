@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/rohit_pc/Desktop/Other/Workspace/Android-Junit-Codelab/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/rohit_pc/Desktop/Other/Workspace/Android-Junit-Codelab/app/src/debug/jniLibs"/></dataSet></merger>
